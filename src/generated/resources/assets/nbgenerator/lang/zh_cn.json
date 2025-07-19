@@ -1,0 +1,9 @@
+{
+  "block.nbgenerator.air_generator": "空气能发电机",
+  "item.nbgenerator.fan": "风扇",
+  "message.getenergy.airgenerator": "空气能发电机: ",
+  "message.longtime.airgenerator": "补药啊！我还要打多久工啊！ (╥﹏╥)",
+  "message.shorttime.airgenerator": "下班下班！☆*:.｡.o(≧▽≦)o.｡.:*☆",
+  "message.sleeping.airgenerator": "下班了还吵我？还让不让我休息了？⁽͑˙˚̀བ̇˚́˙⁾̉",
+  "nbgenerator.creativemodetab.mod_tab": "NB炸了的发电机"
+}

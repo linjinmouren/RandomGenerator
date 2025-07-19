@@ -1,0 +1,9 @@
+{
+  "block.nbgenerator.air_generator": "Air Generator",
+  "item.nbgenerator.fan": "Fan",
+  "message.getenergy.airgenerator": "Air Generator: ",
+  "message.longtime.airgenerator": "Oh,No! I still have to work a long time.",
+  "message.shorttime.airgenerator": "That's great! it's time to rest.",
+  "message.sleeping.airgenerator": "I'm sleeping. Don't bother me!",
+  "nbgenerator.creativemodetab.mod_tab": "NB Generator"
+}

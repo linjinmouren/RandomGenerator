@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "tag": "forge:ingots/iron"
+    },
+    "D": {
+      "tag": "forge:gems/diamond"
+    },
+    "F": {
+      "item": "nbgenerator:fan"
+    },
+    "R": {
+      "tag": "forge:storage_blocks/redstone"
+    }
+  },
+  "pattern": [
+    "IDI",
+    "FRF",
+    "IDI"
+  ],
+  "result": {
+    "item": "nbgenerator:air_generator"
+  },
+  "show_notification": true
+}
