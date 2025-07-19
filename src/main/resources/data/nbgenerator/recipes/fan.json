@@ -5,13 +5,13 @@
     "I": {
       "tag": "forge:ingots/iron"
     },
-    "R": {
-      "tag": "forge:dusts/redstone"
+    "S": {
+      "tag": "forge:slimeballs"
     }
   },
   "pattern": [
     " I ",
-    "IRI",
+    "ISI",
     " I "
   ],
   "result": {
